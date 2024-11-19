@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap:https://fnsmfnfhsjdb.github.io/zp532_1/sitemap.xml
